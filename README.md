@@ -16,7 +16,7 @@ This project is a complete implementation of the **Periodic Table of Elements (1
 ---
 
 ## 📸 Preview
-![Periodic Table Preview](https://upload.wikimedia.org/wikipedia/commons/0/0a/Periodic_table_large.png)  
+![Periodic Table Preview]([https://upload.wikimedia.org/wikipedia/commons/0/0a/Periodic_table_large.png](https://khurrammalik15.github.io/SMIT-Assignment03---Create-a-Periodic-Table/))  
 *(Note: This is a reference image. Open the HTML file in your browser to see the actual project.)*
 
 ---
